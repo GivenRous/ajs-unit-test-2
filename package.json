@@ -1,7 +1,7 @@
 {
   "name": "ajs-unit-test-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/hyu97stxug2kdwa9?svg=true)](https://ci.appveyor.com/project/GivenRous/ajs-unit-test-2)",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
